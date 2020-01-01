@@ -6,7 +6,7 @@
                 <filter>select</filter>
                 <options class="Emizentech\DynamicGridColumn\Ui\Component\Listing\Column\Customer\Options"/>
                 <dataType>select</dataType>
-                <label translate="true">Customer</label>
+                <label translate="true">Customer Type</label>
             </settings>
         </column>
     </columns>
