@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Ui:etc/ui_configuration.xsd">
+    <columns name="sales_order_columns">
+        <column name="customer_status" component="Magento_Ui/js/grid/columns/select">
+            <settings>
+                <filter>select</filter>
+                <options class="Emizentech\DynamicGridColumn\Ui\Component\Listing\Column\Customer\Options"/>
+                <dataType>select</dataType>
+                <label translate="true">Customer</label>
+            </settings>
+        </column>
+    </columns>
+</listing>
