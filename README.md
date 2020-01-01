@@ -7,4 +7,4 @@
 	    php bin/magento cache:clean<br/>
 	    php bin/magento cache:flush<br/>
 <strong>Backend View :</strong>
-The  New Column named “Customer” will be appear in  Admin > Sales > Order List.
+The  New Column named “Customer Type” will be appear in  Admin > Sales > Order List.
